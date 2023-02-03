@@ -1,6 +1,6 @@
 # Terms
 
-[Go Home](README.md)
+[Go Home](https://github.com/jaylong255/learning-k8s)
 
 ---
 
