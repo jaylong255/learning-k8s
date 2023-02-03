@@ -1,6 +1,6 @@
 # Terms
 
-[Go Home](../)
+[Go Home](README.md)
 
 ---
 
